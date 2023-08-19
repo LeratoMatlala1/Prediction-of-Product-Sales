@@ -126,4 +126,4 @@ For more details, refer to the [Jupyter Notebook](Prediction_of_Product_Sales.ip
 
 ## Contributors
 
-- Lerato Matlala ([GitHub Profile](https://github.com/leratomatlala))
+- Lerato Matlala ([GitHub Profile](https://github.com/leratomatlala1))

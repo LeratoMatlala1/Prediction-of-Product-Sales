@@ -123,3 +123,7 @@ Despite the success of the models, there are certain limitations:
 
 For more details, refer to the [Jupyter Notebook](Prediction_of_Product_Sales.ipynb).
 
+
+## Contributors
+
+- Lerato Matlala ([GitHub Profile](https://github.com/leratomatlala))

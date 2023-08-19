@@ -51,7 +51,11 @@ Univariate analysis involved exploring individual features. The analysis include
 Below are examples of some univariate analysis that was done:
 
 ![download](https://github.com/LeratoMatlala1/Prediction-of-Product-Sales/assets/138568742/b3491d54-8fbb-4240-9dd1-3a9731b327d3)
-
+-----------------------
+![Boxplots of Numerical Features](https://github.com/LeratoMatlala1/Prediction-of-Product-Sales/assets/138568742/b76f0f54-b3a0-41d0-b4c9-629dff4797dc)
+-------------------
+![Coutplots of Categorical Features](https://github.com/LeratoMatlala1/Prediction-of-Product-Sales/assets/138568742/8f6579c3-e7b3-4c59-b402-50798b54eda9)
+-------------------
 
 #### Multivariate Analysis
 Multivariate analysis aimed to identify relationships between pairs of variables. A correlation heatmap was generated to visualize the correlations among numerical features. This helped in identifying potential collinearities and understanding variable interactions. Regression plots were also used to examine the relationship between numerical variables and the target variable `Item_Outlet_Sales`.
@@ -59,7 +63,9 @@ Multivariate analysis aimed to identify relationships between pairs of variables
 Below is an example of some multivariate analysis that was done:
 
 ![download (1)](https://github.com/LeratoMatlala1/Prediction-of-Product-Sales/assets/138568742/a1c01b96-293d-44a8-b6f6-bc40a0806b9e)
-
+-------------------
+![Regression Plots](https://github.com/LeratoMatlala1/Prediction-of-Product-Sales/assets/138568742/026ee035-fc90-4213-a10b-a219b44d8975)
+---------------
 
 #### Feature Inspection
 Feature inspection involved examining the features' distributions and characteristics. This step was crucial in identifying potential anomalies, patterns, and understanding the data's nature.

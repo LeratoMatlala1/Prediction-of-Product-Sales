@@ -120,3 +120,6 @@ Despite the success of the models, there are certain limitations:
 - **Feature Availability:** Some features, such as item demand trends or external economic factors, might not have been included in the dataset. Incorporating these features could potentially improve prediction accuracy.
 
 - **Assumption of Stationarity:** The models assume that sales patterns remain consistent over time. If significant shifts in consumer behavior occur, the models may need recalibration.
+
+For more details, refer to the [Jupyter Notebook](Prediction_of_Product_Sales.ipynb).
+
